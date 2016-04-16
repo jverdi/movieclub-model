@@ -1,2 +1,1 @@
-# movieclub-model
-Movie Club Model
+# Movie Club Model
